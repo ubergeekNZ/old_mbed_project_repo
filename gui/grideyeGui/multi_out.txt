@@ -1,0 +1,3214 @@
+Therm=['14.75']
+new frame
+Add first object:1,5
+temp: 19.5
+Update object:2,5
+temp: 20.0, 19.5
+copy to tracker list
+Therm=['14.75']
+new frame
+Add first object:1,5
+temp: 19.0
+Update object:2,5
+temp: 19.75, 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,5
+temp: 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,5
+temp: 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:1,5
+temp: 19.75
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:1,5
+temp: 19.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:1,5
+temp: 19.0
+Update object:2,5
+temp: 20.25, 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:1,5
+temp: 19.25
+Update object:2,5
+temp: 20.5, 19.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:1,5
+temp: 19.0
+Update object:2,5
+temp: 20.75, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,5
+temp: 21.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,5
+temp: 19.0
+Add new object:2,5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,5
+temp: 19.25
+Add new object:2,5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,4
+temp: 19.75
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,4
+temp: 19.25
+Update object:2,5
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:2,4
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,4
+temp: 20.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:3,4
+temp: 19.5
+Update object:3,5
+temp: 20.0, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,5
+temp: 19.25
+Update object:4,5
+temp: 20.25, 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,4
+temp: 19.0
+Update object:4,5
+temp: 20.75, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,5
+temp: 20.75
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:5,4
+temp: 19.25
+Update object:5,5
+temp: 21.75, 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:5,4
+temp: 19.75
+Update object:5,5
+temp: 21.5, 19.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:5,4
+temp: 19.75
+Update object:6,4
+temp: 20.0, 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,4
+temp: 21.5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:6,3
+temp: 19.5
+Update object:6,4
+temp: 21.5, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,4
+temp: 20.0
+Update object:7,4
+temp: 21.5, 20.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:6,4
+temp: 19.75
+Update object:7,4
+temp: 20.75, 19.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:7,4
+temp: 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,4
+temp: 21.5
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:7,3
+temp: 18.75
+Update object:7,4
+temp: 19.25, 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,4
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.56']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.75']
+new frame
+Add first object:7,4
+temp: 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,4
+temp: 19.25
+Add new object:7,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,4
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,3
+temp: 20.0
+Update object:7,4
+temp: 21.5, 20.0
+Update tracker list
+Therm=['14.56']
+new frame
+Add first object:6,4
+temp: 19.75
+Update object:7,4
+temp: 21.75, 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,4
+temp: 20.5
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:6,4
+temp: 20.5
+Update tracker list
+Therm=['14.56']
+new frame
+Add first object:5,4
+temp: 20.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:4,3
+temp: 19.25
+Update object:4,4
+temp: 20.25, 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:4,4
+temp: 20.5
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,4
+temp: 20.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,4
+temp: 19.0
+Update object:3,4
+temp: 19.5, 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,4
+temp: 19.5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:1,4
+temp: 21.0
+Add new object:3,4
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,4
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,4
+temp: 19.0
+Add new object:2,4
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,3
+temp: 19.0
+Update object:1,4
+temp: 19.75, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,4
+temp: 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:0,4
+temp: 19.5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:1,3
+temp: 19.5
+Update object:0,4
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,3
+temp: 19.0
+Update object:0,4
+temp: 20.25, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,3
+temp: 19.0
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:0,3
+temp: 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,0
+temp: 19.0
+Add new object:0,2
+Update object:0,3
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,2
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 19.5
+Add new object:6,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 22.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 21.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:1,1
+temp: 21.5
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:1,0
+temp: 19.0
+Update object:1,1
+temp: 20.0, 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Therm=['14.68']
+new frame
+Add first object:2,0
+temp: 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,0
+temp: 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,1
+temp: 19.5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:4,0
+temp: 21.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 21.0
+Add new object:5,2
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:5,0
+temp: 19.25
+Update object:6,0
+temp: 21.25, 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:6,0
+temp: 19.0
+Update object:7,0
+temp: 20.25, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,0
+temp: 19.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:7,0
+temp: 19.0
+Update object:7,1
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,2
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,0
+temp: 18.75
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.75']
+new frame
+Add first object:0,7
+temp: 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Add first object:7,2
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,0
+temp: 19.0
+Add new object:7,2
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,0
+temp: 23.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:6,0
+temp: 20.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.25
+Update object:6,0
+temp: 20.5, 19.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:5,0
+temp: 19.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:7,7
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:5,0
+temp: 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 19.5
+Update object:5,0
+temp: 20.0, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 21.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 21.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 20.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,1
+temp: 19.0
+Update object:5,2
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,1
+temp: 21.0
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:4,2
+temp: 20.5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:4,2
+temp: 19.0
+Update object:4,3
+temp: 19.5, 19.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:4,3
+temp: 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,4
+temp: 20.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,4
+temp: 19.0
+Update object:3,5
+temp: 20.25, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,5
+temp: 19.5
+Update object:4,6
+temp: 20.5, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,5
+temp: 19.0
+Update object:4,6
+temp: 20.5, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,6
+temp: 19.5
+Update object:4,7
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,6
+temp: 19.5
+Update object:3,7
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,6
+temp: 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,7
+temp: 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Add first object:0,6
+temp: 18.75
+Update tracker list
+Therm=['14.68']
+new frame
+Therm=['14.62']
+new frame
+Add first object:7,7
+temp: 18.5
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.81']
+new frame
+Add first object:2,7
+temp: 19.75
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,7
+temp: 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:2,7
+temp: 21.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,6
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,6
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,5
+temp: 19.0
+Update object:2,6
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,5
+temp: 20.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,4
+temp: 21.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,3
+temp: 20.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,3
+temp: 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:2,2
+temp: 19.0
+Update object:3,2
+temp: 19.25, 19.0
+Add new object:0,7
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,1
+temp: 20.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,1
+temp: 20.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,0
+temp: 20.25
+Update tracker list
+Therm=['14.68']
+new frame
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 20.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:4,0
+temp: 18.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,0
+temp: 18.75
+Update tracker list
+Therm=['14.68']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.62']
+new frame
+Add first object:4,0
+temp: 18.75
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 19.75
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:3,0
+temp: 19.0
+Update object:4,0
+temp: 21.75, 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 20.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,1
+temp: 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,1
+temp: 20.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:3,2
+temp: 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,3
+temp: 19.25
+Update object:4,3
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,4
+temp: 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,5
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,5
+temp: 19.75
+Update object:3,6
+temp: 21.0, 19.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,6
+temp: 19.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,7
+temp: 20.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,7
+temp: 20.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:3,7
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.68']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.68']
+new frame
+Add first object:7,7
+temp: 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Add first object:7,5
+temp: 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,5
+temp: 19.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,6
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,6
+temp: 19.25
+Update object:7,7
+temp: 20.0, 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,7
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,7
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,7
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,7
+temp: 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,7
+temp: 18.75
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Add first object:2,7
+temp: 18.75
+Add new object:4,7
+Add new object:6,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,7
+temp: 19.0
+Update object:4,7
+temp: 19.25, 19.0
+Update object:5,7
+temp: 19.75, 19.25
+Update object:6,7
+temp: 20.75, 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 19.75
+Add new object:2,7
+Add new object:6,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,6
+temp: 19.0
+Update object:2,7
+temp: 21.0, 19.0
+Add new object:6,7
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:2,6
+temp: 20.25
+Update object:6,7
+temp: 20.5, 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,6
+temp: 20.5
+Update object:6,7
+temp: 21.25, 20.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,5
+temp: 19.5
+Add new object:6,7
+Update object:7,7
+temp: 21.75, 20.75
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,5
+temp: 20.5
+Add new object:6,7
+Update object:7,7
+temp: 20.5, 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,4
+temp: 20.75
+Add new object:6,6
+Update object:7,6
+temp: 21.25, 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,4
+temp: 19.75
+Add new object:7,6
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:6,5
+temp: 19.25
+Update object:7,5
+temp: 19.75, 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,2
+temp: 19.5
+Add new object:7,5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,1
+temp: 20.75
+Add new object:7,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,4
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 20.25
+Add new object:7,3
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 19.75
+Add new object:7,3
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.5
+Add new object:1,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,2
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Add first object:0,7
+temp: 18.75
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Add first object:7,1
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.75']
+new frame
+Add first object:7,0
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,1
+temp: 19.25
+Add new object:7,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,0
+temp: 19.25
+Update object:7,1
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:7,0
+temp: 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,0
+temp: 19.25
+Add new object:7,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:7,0
+Update object:7,1
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,0
+temp: 21.0
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:7,0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 20.25
+Add new object:7,0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 22.25
+Add new object:7,0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 20.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,1
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,1
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,2
+temp: 20.0
+Add new object:7,2
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,3
+temp: 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,3
+temp: 19.25
+Add new object:7,3
+Update object:3,4
+temp: 20.25, 19.25
+Update object:3,4
+temp: 20.25, 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,4
+temp: 19.5
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:3,5
+temp: 20.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,5
+temp: 20.0
+Update object:3,6
+temp: 20.75, 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,5
+temp: 19.5
+Update object:3,6
+temp: 20.5, 19.5
+Add new object:7,6
+Update object:3,7
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:3,6
+temp: 19.0
+Add new object:7,6
+Update object:3,7
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,6
+temp: 20.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,6
+temp: 19.25
+Update object:6,7
+temp: 19.5, 19.25
+Update object:7,7
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,7
+temp: 19.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,7
+temp: 19.25
+Update object:6,7
+temp: 20.25, 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,7
+temp: 18.75
+Add new object:5,7
+Update object:6,7
+temp: 19.25, 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Add first object:5,7
+temp: 19.25
+Update tracker list
+Therm=['14.62']
+new frame
+Add first object:5,7
+temp: 19.25
+Update tracker list
+Therm=['14.68']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.62']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,6
+temp: 18.75
+Update object:0,7
+temp: 20.25, 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,7
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 20.5
+Add new object:4,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,6
+temp: 18.75
+Update object:0,7
+temp: 19.5, 18.75
+Add new object:4,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 19.5
+Add new object:4,7
+Add new object:7,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 20.25
+Add new object:5,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,7
+temp: 20.0
+Add new object:4,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,6
+temp: 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,6
+temp: 22.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,5
+temp: 21.75
+Add new object:2,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,4
+temp: 20.0
+Add new object:2,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,4
+temp: 20.0
+Add new object:3,7
+Update object:4,7
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,3
+temp: 19.0
+Update object:5,3
+temp: 19.25, 19.0
+Add new object:4,6
+Update object:4,7
+temp: 20.75, 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,7
+temp: 19.5
+Update object:5,7
+temp: 20.0, 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,2
+temp: 19.25
+Add new object:6,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,1
+temp: 19.5
+Add new object:6,6
+Update object:7,6
+temp: 21.5, 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,0
+temp: 20.0
+Add new object:6,6
+Update object:7,6
+temp: 20.25, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 20.0
+Add new object:7,6
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:7,5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:7,5
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:1,7
+temp: 18.75
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Add first object:7,0
+temp: 18.75
+Add new object:0,7
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:5,0
+temp: 20.5
+Add new object:7,0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:7,4
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:7,4
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:7,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,3
+temp: 19.0
+Update object:6,4
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:5,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,3
+temp: 20.5
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Add new object:2,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:1,3
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:1,3
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:0,3
+Update tracker list
+Therm=['14.68']
+new frame
+Add first object:5,0
+temp: 19.75
+Add new object:0,3
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Add new object:0,2
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,2
+temp: 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:0,2
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,2
+temp: 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 20.5
+Add new object:7,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:0,2
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 20.0
+Add new object:0,2
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:0,2
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:0,2
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 20.0
+Add new object:0,2
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 21.5
+Add new object:0,2
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 21.25
+Add new object:0,2
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,1
+temp: 22.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,1
+temp: 19.75
+Update object:0,2
+temp: 21.5, 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,2
+temp: 22.0
+Add new object:5,2
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 20.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,2
+temp: 21.25
+Add new object:5,4
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,2
+temp: 20.25
+Add new object:5,5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:1,2
+temp: 20.25
+Add new object:6,5
+Add new object:0,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,6
+temp: 20.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:5,7
+temp: 20.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,2
+temp: 19.5
+Add new object:5,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,3
+temp: 19.0
+Update object:4,3
+temp: 19.25, 19.0
+Add new object:4,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,3
+temp: 19.0
+Update object:5,3
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:5,3
+temp: 20.25
+Add new object:4,7
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,3
+temp: 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,3
+temp: 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,3
+temp: 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Add first object:7,6
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Add first object:6,7
+temp: 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,7
+temp: 18.5
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.93']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.93']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:7,0
+temp: 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Add first object:4,7
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,7
+temp: 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:4,7
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,7
+temp: 19.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:3,7
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,6
+temp: 19.0
+Update object:3,7
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,6
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,5
+temp: 20.0
+Update object:4,5
+temp: 20.5, 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,4
+temp: 20.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,4
+temp: 21.0
+Add new object:7,6
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,3
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,2
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,1
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.75
+Update object:4,1
+temp: 20.25, 19.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:7,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.75
+Add new object:7,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.75
+Add new object:7,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Update object:6,7
+temp: 20.0, 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.0
+Add new object:5,7
+Update object:6,7
+temp: 19.75, 19.0
+Update object:6,7
+temp: 19.75, 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,7
+temp: 19.25
+Update object:6,7
+temp: 21.75, 19.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:6,6
+temp: 19.5
+Update object:6,7
+temp: 21.5, 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,6
+temp: 19.5
+Update object:5,7
+temp: 20.0, 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,5
+temp: 19.0
+Update object:5,6
+temp: 21.0, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,5
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,5
+temp: 20.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,5
+temp: 19.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,4
+temp: 19.5
+Update object:3,4
+temp: 20.25, 19.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,4
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,3
+temp: 19.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:1,2
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:1,2
+temp: 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:1,2
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Add first object:0,1
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,2
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,1
+temp: 19.75
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Add first object:0,0
+temp: 19.75
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:0,0
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,0
+temp: 21.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:0,0
+temp: 21.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,0
+temp: 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,0
+temp: 21.25
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,0
+temp: 21.5
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,0
+temp: 20.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,0
+temp: 21.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:0,0
+temp: 22.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,0
+temp: 20.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,0
+temp: 21.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,0
+temp: 20.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,0
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:1,1
+temp: 20.75
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:1,1
+temp: 20.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:1,2
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,2
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:3,3
+temp: 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:5,4
+temp: 19.25
+Update object:6,4
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:6,4
+temp: 19.0
+Update object:6,5
+temp: 19.25, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:6,5
+temp: 19.25
+Update object:7,5
+temp: 20.75, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,5
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,5
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,5
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Add new object:7,6
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 18.75
+Add new object:7,6
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,7
+temp: 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.5
+Update tracker list
+Therm=['14.75']
+new frame
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.0
+Add new object:7,6
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:7,6
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,5
+temp: 19.25
+Update object:7,6
+temp: 19.75, 19.25
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:6,5
+Update object:7,6
+temp: 20.25, 19.25
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:6,5
+Update object:7,6
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,5
+temp: 19.25
+Update object:6,6
+temp: 19.75, 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:6,6
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,5
+temp: 19.75
+Update object:5,6
+temp: 20.75, 19.75
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,6
+temp: 21.25
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.93']
+new frame
+Add first object:3,5
+temp: 19.75
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:2,5
+temp: 20.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:1,5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:2,4
+temp: 19.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:0,5
+Add new object:6,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.5
+Add new object:0,5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Add new object:0,4
+Update tracker list
+Therm=['14.93']
+new frame
+Therm=['14.81']
+new frame
+Add first object:0,4
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Add new object:0,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.0
+Add new object:0,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,4
+temp: 19.25
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:0,4
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:0,4
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,5
+temp: 20.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.5
+Add new object:0,6
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:0,6
+temp: 21.0
+Update tracker list
+Therm=['14.75']
+new frame
+Add first object:0,7
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.75
+Add new object:2,6
+Update object:0,7
+temp: 22.0, 19.75
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 20.0
+Add new object:0,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,6
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.5
+Add new object:1,7
+Update object:2,7
+temp: 19.5, 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Add new object:7,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.25
+Update tracker list
+Therm=['14.93']
+new frame
+Therm=['14.81']
+new frame
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:0,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,7
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 19.75
+Add new object:7,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.0
+Update object:5,0
+temp: 19.5, 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 21.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.25
+Update object:5,0
+temp: 23.0, 19.25
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.5
+Update object:5,1
+temp: 20.5, 19.5
+Add new object:2,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,1
+temp: 21.5
+Add new object:2,6
+Update object:2,7
+temp: 20.5, 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,2
+temp: 20.0
+Update object:6,2
+temp: 21.5, 20.0
+Add new object:2,6
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,3
+temp: 19.5
+Update object:6,3
+temp: 20.5, 19.5
+Add new object:3,5
+Update object:2,6
+temp: 19.75, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,3
+temp: 20.0
+Add new object:2,5
+Update object:3,5
+temp: 19.75, 19.5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:2,4
+temp: 19.75
+Add new object:5,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,4
+temp: 19.25
+Update object:5,5
+temp: 21.0, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,6
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,7
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,1
+temp: 19.5
+Add new object:5,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,0
+temp: 19.25
+Add new object:5,7
+Update object:6,7
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.0
+Add new object:7,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:0,7
+temp: 18.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,7
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Therm=['14.81']
+new frame
+Add first object:6,7
+temp: 18.75
+Update tracker list
+Therm=['14.81']
+new frame
+Therm=['14.93']
+new frame
+Therm=['15.00']
+new frame
+Therm=['14.87']
+new frame
+Add first object:7,7
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:3,0
+temp: 20.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,1
+temp: 20.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:3,1
+temp: 19.75
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,2
+temp: 20.0
+Add new object:5,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:3,3
+temp: 20.0
+Update object:4,7
+temp: 20.5, 20.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:2,4
+temp: 19.5
+Add new object:5,6
+Update object:5,7
+temp: 20.25, 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,5
+temp: 20.0
+Update object:5,6
+temp: 21.5, 20.0
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:2,5
+temp: 20.25
+Add new object:4,5
+Update object:5,5
+temp: 21.5, 20.5
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:4,4
+temp: 20.25
+Update object:5,4
+temp: 20.75, 20.25
+Add new object:2,6
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,3
+temp: 20.25
+Add new object:2,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,3
+temp: 19.25
+Add new object:2,7
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:5,2
+temp: 19.75
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,7
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.25
+Update object:5,1
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:4,0
+temp: 19.25
+Update object:5,0
+temp: 19.5, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 20.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:5,0
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['15.00']
+new frame
+Add first object:5,0
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 20.25
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:5,0
+temp: 19.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 20.0
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:0,7
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 19.75
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.75
+Add new object:4,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:4,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 19.25
+Add new object:4,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:4,7
+Update object:5,7
+temp: 20.5, 20.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 20.25
+Add new object:4,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 20.0
+Add new object:5,6
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 21.5
+Add new object:5,6
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 21.5
+Add new object:5,5
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:5,0
+temp: 21.5
+Add new object:5,5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,1
+temp: 20.0
+Add new object:5,4
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 19.5
+Update object:5,1
+temp: 21.0, 19.5
+Add new object:5,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,1
+temp: 21.5
+Add new object:5,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,1
+temp: 20.75
+Update object:6,1
+temp: 21.25, 20.75
+Add new object:5,4
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:6,1
+temp: 21.0
+Add new object:5,4
+Update tracker list
+Therm=['15.06']
+new frame
+Add first object:6,1
+temp: 20.0
+Add new object:5,4
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:6,2
+temp: 20.5
+Update object:7,2
+temp: 21.0, 20.5
+Add new object:5,4
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:6,2
+temp: 19.25
+Update object:7,2
+temp: 20.75, 19.25
+Add new object:6,4
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:7,2
+temp: 20.25
+Add new object:7,7
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:5,3
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,2
+temp: 19.25
+Update object:7,3
+temp: 20.25, 19.25
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:7,4
+temp: 19.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:7,4
+temp: 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 20.0
+Add new object:7,4
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,0
+temp: 20.25
+Add new object:7,5
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:6,5
+Update object:7,5
+temp: 21.0, 20.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.5
+Add new object:7,6
+Update tracker list
+Therm=['14.81']
+new frame
+Add first object:4,0
+temp: 19.25
+Add new object:7,7
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:6,7
+temp: 20.5
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,7
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:5,7
+temp: 19.25
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:5,7
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Therm=['15.00']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:5,0
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Add first object:4,0
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:3,0
+temp: 19.0
+Add new object:7,0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,0
+temp: 21.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:3,1
+temp: 22.5
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:3,1
+temp: 20.5
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:2,2
+temp: 19.25
+Update object:3,2
+temp: 20.0, 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Add first object:1,4
+temp: 20.25
+Add new object:7,7
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:2,4
+temp: 19.0
+Update tracker list
+Therm=['15.00']
+new frame
+Add first object:1,5
+temp: 19.25
+Update tracker list
+Therm=['15.00']
+new frame
+Therm=['14.93']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Add first object:2,5
+temp: 19.25
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:1,5
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Therm=['15.00']
+new frame
+Add first object:1,5
+temp: 19.0
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:0,0
+temp: 18.75
+Add new object:0,7
+Update tracker list
+Therm=['14.87']
+new frame
+Add first object:1,5
+temp: 19.0
+Update tracker list
+Therm=['14.93']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Therm=['14.87']
+new frame
+Therm=['14.87']
+new frame
+Add first object:2,4
+temp: 18.75
+Update tracker list
+Therm=['14.93']
+new frame
+Add first object:2,5
+temp: 19.25
+Update tracker list
+Therm=['14.87']
+new frame
+Therm=['14.93']
+new frame
+Therm=['15.00']
+new frame
+Add first object:1,5
+temp: 19.0
+Update tracker list
+Ctrl-C received, exiting...
+serial closed, exiting...

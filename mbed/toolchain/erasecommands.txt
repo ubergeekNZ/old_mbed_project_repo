@@ -1,0 +1,6 @@
+h
+r
+device = ${DEVICE_TYPE}
+speed 8000
+erase
+qc

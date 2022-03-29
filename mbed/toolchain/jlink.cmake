@@ -1,0 +1,14 @@
+SET(DEBUG_PORT "2331")
+
+CONFIGURE_FILE(${CMAKE_CURRENT_LIST_DIR}/gdbcommands.txt ${CMAKE_CURRENT_BINARY_DIR}/gdbcommands.txt)
+ADD_CUSTOM_TARGET(debug DEPENDS ${CMAKE_PROJECT_NAME}.elf COMMAND arm-none-eabi-gdb --tui --se=${CMAKE_PROJECT_NAME}.elf --command=${CMAKE_CURRENT_BINARY_DIR}/gdbcommands.txt)
+ADD_CUSTOM_TARGET(debug-server DEPENDS ${CMAKE_CURRENT_BINARY_DIR}/${CMAKE_PROJECT_NAME}.elf COMMAND JLinkGDBServer -if SWD -device ${DEVICE})
+
+CONFIGURE_FILE(${CMAKE_CURRENT_LIST_DIR}/flashcommands.txt ${CMAKE_CURRENT_BINARY_DIR}/flashcommands.txt)
+ADD_CUSTOM_TARGET(flash DEPENDS ${CMAKE_CURRENT_BINARY_DIR}/${CMAKE_PROJECT_NAME}.bin COMMAND stdbuf -oL JLinkExe -CommanderScript ${CMAKE_CURRENT_BINARY_DIR}/flashcommands.txt)
+
+CONFIGURE_FILE(${CMAKE_CURRENT_LIST_DIR}/erasecommands.txt ${CMAKE_CURRENT_BINARY_DIR}/erasecommands.txt)
+ADD_CUSTOM_TARGET(erase DEPENDS ${CMAKE_CURRENT_BINARY_DIR}/${CMAKE_PROJECT_NAME}.bin COMMAND stdbuf -oL JLinkExe -CommanderScript ${CMAKE_CURRENT_BINARY_DIR}/erasecommands.txt)
+
+
+ADD_CUSTOM_TARGET(reset DEPENDS COMMAND JLinkExe -device ${DEVICE} -CommanderScript ${CMAKE_CURRENT_LIST_DIR}/resetcommands.txt)

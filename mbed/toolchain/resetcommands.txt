@@ -1,0 +1,7 @@
+device = ${DEVICE_TYPE}
+h
+r
+Sleep 100
+g
+Sleep 100
+qc

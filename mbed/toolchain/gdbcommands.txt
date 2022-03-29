@@ -1,0 +1,20 @@
+target remote localhost:${DEBUG_PORT}
+monitor halt
+monitor reset
+monitor speed 4000
+monitor flash device ${DEVICE_TYPE}
+
+define reset
+  monitor halt
+  monitor reset
+  x/1wx ${START_FLASH_ADDR}
+  set var $SP = $__
+  x/1
+  set var $PC = $__
+  tbreak main
+  continue
+end
+
+load
+tbreak main
+continue

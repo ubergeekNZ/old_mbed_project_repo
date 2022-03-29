@@ -1,0 +1,214 @@
+Initialize values
+Creating the plots
+new frame
+copy to tracker list: 0: 7,0
+copy to tracker list: 1: 7,6
+new frame
+new frame
+Remove item from the list
+new frame
+Found: 0,7
+Track: 7,6
+Add the new item to the tracker list:0: 0,7
+Remove item from the list
+new frame
+new frame
+new frame
+copy to tracker list: 0: 6,7
+new frame
+new frame
+Remove item from the list
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+copy to tracker list: 0: 1,0
+new frame
+new frame
+Remove item from the list
+new frame
+new frame
+copy to tracker list: 0: 0,0
+copy to tracker list: 1: 5,7
+new frame
+Found: 4,7
+Track: 0,0
+Found: 4,7
+Track: 5,7
+Update tracker list 1: 4,7
+new frame
+Found: 0,0
+Track: 0,0
+Update tracker list 0: 0,0
+Found: 0,0
+Track: 4,7
+Found: 4,7
+Track: 0,0
+Found: 4,7
+Track: 4,7
+Update tracker list 1: 4,7
+new frame
+Found: 4,7
+Track: 0,0
+Found: 4,7
+Track: 4,7
+Update tracker list 1: 4,7
+new frame
+Found: 4,7
+Track: 0,0
+Found: 4,7
+Track: 4,7
+Update tracker list 1: 4,7
+Remove item from the list
+new frame
+Found: 4,6
+Track: 4,7
+Update tracker list 0: 4,6
+new frame
+Found: 4,5
+Track: 4,6
+Update tracker list 0: 4,5
+new frame
+Found: 4,4
+Track: 4,5
+Update tracker list 0: 4,4
+new frame
+Found: 5,3
+Track: 4,4
+Update tracker list 0: 5,3
+new frame
+Found: 5,2
+Track: 5,3
+Update tracker list 0: 5,2
+new frame
+Found: 5,2
+Track: 5,2
+Update tracker list 0: 5,2
+new frame
+Found: 5,1
+Track: 5,2
+Update tracker list 0: 5,1
+new frame
+Found: 5,1
+Track: 5,1
+Update tracker list 0: 5,1
+new frame
+Found: 5,0
+Track: 5,1
+Update tracker list 0: 5,0
+new frame
+Found: 5,0
+Track: 5,0
+Update tracker list 0: 5,0
+new frame
+Found: 5,0
+Track: 5,0
+Update tracker list 0: 5,0
+Found: 0,7
+Track: 5,0
+Add the new item to the tracker list:1: 0,7
+new frame
+Found: 5,0
+Track: 5,0
+Update tracker list 0: 5,0
+new frame
+new frame
+Found: 0,0
+Track: 5,0
+Add the new item to the tracker list:0: 0,0
+Remove item from the list
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+new frame
+copy to tracker list: 0: 6,7
+new frame
+Found: 0,0
+Track: 6,7
+Add the new item to the tracker list:0: 0,0
+Found: 6,7
+Track: 6,7
+Update tracker list 0: 6,7
+new frame
+Found: 6,7
+Track: 6,7
+Update tracker list 0: 6,7
+new frame
+Found: 6,6
+Track: 6,7
+Update tracker list 0: 6,6
+new frame
+Found: 6,6
+Track: 6,6
+Update tracker list 0: 6,6
+new frame
+Found: 6,5
+Track: 6,6
+Update tracker list 0: 6,5
+new frame
+Found: 6,4
+Track: 6,5
+Update tracker list 0: 6,4
+new frame
+Found: 6,3
+Track: 6,4
+Update tracker list 0: 6,3
+new frame
+Found: 6,2
+Track: 6,3
+Update tracker list 0: 6,2
+new frame
+Found: 6,2
+Track: 6,2
+Update tracker list 0: 6,2
+new frame
+Found: 6,1
+Track: 6,2
+Update tracker list 0: 6,1
+new frame
+Found: 0,0
+Track: 6,1
+Add the new item to the tracker list:0: 0,0
+Found: 6,0
+Track: 6,1
+Update tracker list 0: 6,0
+new frame
+Found: 0,0
+Track: 6,0
+Add the new item to the tracker list:0: 0,0
+Found: 5,0
+Track: 6,0
+Update tracker list 0: 5,0
+new frame
+Found: 0,7
+Track: 5,0
+Add the new item to the tracker list:0: 0,7
+new frame
+Remove item from the list
+new frame
+new frame
+new frame
+copy to tracker list: 0: 0,0
+new frame
+new frame
+Remove item from the list
+new frame
+new frame
+new frame
+new frame
+Ctrl-C received, exiting...
+tracking closed, exiting...

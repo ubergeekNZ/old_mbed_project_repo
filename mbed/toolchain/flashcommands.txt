@@ -1,0 +1,8 @@
+h
+r
+device = ${DEVICE_TYPE}
+speed 8000
+erase
+loadbin ${CMAKE_CURRENT_BINARY_DIR}/${CMAKE_PROJECT_NAME}.bin, ${START_FLASH_ADDR}
+verifybin ${CMAKE_CURRENT_BINARY_DIR}/${CMAKE_PROJECT_NAME}.bin, ${START_FLASH_ADDR}
+qc
